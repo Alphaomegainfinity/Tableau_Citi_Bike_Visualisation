@@ -3,6 +3,7 @@
 
 ## Background
 Citi-Bikes
+
 ![plot](image/citi-bike.jpg)
 
 As the new lead analyst for the New York Citi Bike Links to an external site.program, you are now responsible for overseeing the largest bike-sharing program in the United States. In this new role, you will be expected to generate regular reports for city officials looking to publicise and improve the city program.
@@ -48,5 +49,9 @@ Advanced: A dynamic map that shows how each station's popularity changes over ti
 #### Create the final presentation:
 
 Create a Tableau story that brings together the visualisations, requested maps, and dashboards.
+
+![plot](image/dash_board.PNG)
+
+![plot](./image/dash_board1.PNG)
 
 Ensure the presentation is professional, logical, and visually appealing.
